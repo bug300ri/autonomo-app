@@ -1,0 +1,1 @@
+{"name":"Autónomo App","short_name":"Autónomo","description":"Gestión de facturas y gastos para autónomos","start_url":"/","display":"standalone","background_color":"#1e1e1e","theme_color":"#1e1e1e","lang":"en","scope":"/","icons":[{"src":"/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.png","sizes":"512x512","type":"image/png"}]}
