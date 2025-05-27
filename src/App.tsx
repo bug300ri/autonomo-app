@@ -1,12 +1,14 @@
-import AutonomoApp from "./pages/autonomo";
+import React from 'react';
 
 function App() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 p-4">
-      <AutonomoApp />
+    <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+      <h1>🚀 Autónomo App</h1>
+      <p>Tu app está funcionando correctamente.</p>
     </div>
   );
 }
 
 export default App;
+
 
